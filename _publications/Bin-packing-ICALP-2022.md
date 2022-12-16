@@ -1,7 +1,6 @@
 ---
 title: "Near-Optimal Algorithms for Stochastic Online Bin
 Packing"
-Co-Authors: 'Hello'
 collection: publications
 permalink: /publication/binpacking-ICALP2022
 excerpt: 
@@ -10,7 +9,7 @@ venue: 'ICALP'
 paperurl: 'https://drops.dagstuhl.de/opus/volltexte/2021/14590/'
 citation:
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
+with Rajni Dabas, Arindam Khan, K. V. N. Sreenivas.
 
 [Download paper here](https://drops.dagstuhl.de/opus/volltexte/2021/14590/)
 
