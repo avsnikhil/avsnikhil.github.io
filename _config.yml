@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nikhil Ayyadevara"
 title_separator          : "-"
 name                     : &name "Nikhil Ayyadevara"
-description              : &description "Ph.D. Student in Theoretical Computer Science at University of Michigan-Ann Arbor"
+description              : &description "C.S. Theory Ph.D. Student at University of Michigan"
 url                      : https://nikhilayyadevara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Nikhil Ayyadevara"
   avatar           : "profile.png"
-  bio              : "Theory C.S., Ph.D. student, UMich"
+  bio              : "Theory Ph.D. Student, UMich"
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7ZqLL2YAAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            : "vsnikhil at umich dot edu"
-  researchgate     :  
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "nikhil_avs"
