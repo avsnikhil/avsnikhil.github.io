@@ -4,7 +4,7 @@ $k$-Server Is at Least Exponential"
 collection: publications
 permalink: /publication/ESA2021-wks-lowerbound
 excerpt:
-date: 
+date: '2021-08-31'
 venue: 'ESA 2021'
 paperurl: 'https://drops.dagstuhl.de/opus/volltexte/2021/14590/pdf/LIPIcs-ESA-2021-9.pdf'
 citation: 
