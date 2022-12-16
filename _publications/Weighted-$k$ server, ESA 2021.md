@@ -10,3 +10,5 @@ paperurl: 'https://drops.dagstuhl.de/opus/volltexte/2021/14590/'
 citation: 
 ---
 with Ashish Chiplunkar
+
+[Download paper here](https://drops.dagstuhl.de/opus/volltexte/2021/14590/)
